@@ -26,3 +26,5 @@ We will be docummenting every step of the process including:
 * Minimal Viable Infrastructure for sustainability and responsability
 
 * Software for dealing with the ticket process, registration system, gate control, etc..
+
+* Budget / Finance / Decision Making Transparency
